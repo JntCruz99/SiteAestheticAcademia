@@ -1,0 +1,20 @@
+*{
+  font-family: 'Blinker';
+}
+
+body{
+  background-color: rgb(243, 237, 237);
+  color: rgb(51, 54, 54);
+}
+
+ul{
+  list-style: none;
+}
+
+p{
+  color: antiquewhite;
+}
+.navbar{
+  border-bottom: 2px solid #24382d;
+  background-image: url(./img/Capa.jpg);
+}
